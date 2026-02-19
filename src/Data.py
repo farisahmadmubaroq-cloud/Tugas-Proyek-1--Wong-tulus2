@@ -1,4 +1,4 @@
-import database as db
+import Database as db
 
 def tambah_buku():
     judul = input("Judul buku: ")
